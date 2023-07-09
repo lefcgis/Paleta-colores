@@ -2,7 +2,7 @@
 
 <h1> Esquemas de colores para inspirarse. 🖍️🖌️🖊️🖋️</h1>
 
-![colours](https://coolors.co/?home)
+![colours](images/palet.png)
 
 <br />
 <br />
@@ -18,12 +18,15 @@
 
 <h3>🖍️ 3. Pega tu código HEX en tu editor preferido. 😉</h3>
 
+<br />
+<br />
 
 Bon apetite! 😋
 
 <br />
 <br />
 <br />
+
 
 **Lucho Ferrer**
 **Asociación QGIS Perú** 👨‍💻
