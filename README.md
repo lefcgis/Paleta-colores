@@ -5,10 +5,11 @@
 ![colours](images/palet.png)
 
 <br />
-<br />
-
 🎨 Los colores son muy importantes para comunicar una idea de negocio y conectar con nuestros clientes u objetivos. La importancia de ello versa sobre cómo percibimos y cómo nos comportamos ante distintos colores, así como las emociones que ellos embargan sobre uno. En este repositorio tenemos cientos de miles de paletas de colores en qué inspirarse. 💫
 
+<br />
+<br />
+<br />
 
 <h2># Pasos ✨🖌️</h2>
 
@@ -28,5 +29,4 @@ Bon apetite! 😋
 <br />
 
 
-**Lucho Ferrer**
-**Asociación QGIS Perú** 👨‍💻
+**Lucho Ferrer 👨‍💻 - Asociación QGIS Perú** 
