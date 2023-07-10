@@ -5,7 +5,10 @@
 ![colours](images/palet.png)
 
 <br />
-🎨 Los colores son muy importantes para comunicar una idea de negocio y conectar con nuestros clientes u objetivos. La importancia de ello versa sobre cómo percibimos y cómo nos comportamos ante distintos colores, así como las emociones que ellos embargan sobre uno. En este repositorio tenemos cientos de miles de paletas de colores en qué inspirarse. 💫
+
+🎨 Los colores son muy importantes para comunicar una idea de negocio, además de conectar con nuestros clientes u objetivos. La importancia de ello versa sobre el cómo percibimos y cómo nos comportamos ante distintos colores, además de las emociones que ellos embargan sobre nosotros.
+[Coolors](https://coolors.co/palettes/trending) alberga cientos de miles de paletas de colores en qué inspirarse. 💫
+
 
 <br />
 <br />
