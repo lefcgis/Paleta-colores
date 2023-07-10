@@ -1,6 +1,6 @@
-# Paleta-colores
 
-<h1> Esquemas de colores para inspirarse. 🖍️🖌️🖊️🖋️</h1>
+
+<h1> 🖌️🖊️ Esquemas de colores para inspirarse. 🖍️🖋️</h1>
 
 ![colours](images/palet.png)
 
